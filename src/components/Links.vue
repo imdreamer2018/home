@@ -44,7 +44,7 @@
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import { 
-  Link, Blog, GatewayVpn, Cloud, BrandHipchat, Book, Timer, 
+  Link, Blog, GatewayVpn, Cloud, Book, Timer, 
   OndemandVideoFilled, Clipboard, Database, BookReader, 
   PictureFilled, Heart, CloudMonitoring, ConvertRange24Regular, LiveTvOutlined 
 } from "@vicons/fa"; // 注意使用正确的类别
@@ -72,7 +72,6 @@ const siteIcon = {
   Link,
   Blog,
   Cloud,
-  BrandHipchat,
   Book,
   Timer,
   PictureFilled,
