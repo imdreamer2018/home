@@ -1,27 +1,27 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
+    "name": "Blog",
     "link": "https://blog.mychinadream.com/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
+    "name": "Cloud",
     "link": "https://alist.mychinadream.com/"
   },
   {
     "icon": "Book",
-    "name": "行测考试记录管理",
+    "name": "Exam Analysis",
     "link": "https://exam.mychinadream.com/"
   },
   {
     "icon": "Timer",
-    "name": "行测考试计时器",
+    "name": "Exam Timer",
     "link": "https://timer.mychinadream.com/"
   },
   {
     "icon": "Robot",
-    "name": "gpt",
+    "name": "GPT",
     "link": "https://gpt.mychinadream.com/"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "icon": "Image",
-    "name": "图床",
+    "name": "Image Bed",
     "link": "https://imgbed.mychinadream.com/"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "icon": "ContentDeliveryNetwork",
-    "name": "sub订阅转换",
+    "name": "Sub Converter",
     "link": "https://sub.mychinadream.com/"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "icon": "GatewaySecurity",
-    "name": "nginx",
+    "name": "Nginx",
     "link": "https://nginx.mychinadream.com/"
   }
 ]
