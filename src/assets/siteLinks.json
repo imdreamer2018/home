@@ -2,36 +2,81 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.mychinadream.com/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://alist.mychinadream.com/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "行测考试记录管理",
+    "link": "https://exam.mychinadream.com/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Timer",
+    "name": "行测考试计时器",
+    "link": "https://timer.mychinadream.com/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "BrandHipchat",
+    "name": "gpt",
+    "link": "https://gpt.mychinadream.com/"
+  },
+  {
+    "icon": "CloudMonitoring",
+    "name": "Monitor",
+    "link": "https://monitor.mychinadream.com/"
+  },
+  {
+    "icon": "Clipboard",
+    "name": "clipboard",
+    "link": "https://clip.mychinadream.com/"
+  },
+  {
+    "icon": "Database",
+    "name": "D1 database",
+    "link": "https://d1.mychinadream.com/"
+  },
+  {
+    "icon": "BookReader",
+    "name": "Fenbi Daily Reading",
+    "link": "https://daily-reading.mychinadream.com/"
+  },
+  {
+    "icon": "PictureFilled",
+    "name": "图床",
+    "link": "https://imgbed.mychinadream.com/"
+  },
+  {
+    "icon": "Link",
+    "name": "Short Link",
+    "link": "https://link.mychinadream.com/"
+  },
+  {
+    "icon": "Heart",
+    "name": "Love huahua",
+    "link": "https://lovehuahua.mychinadream.com/"
+  },
+  {
+    "icon": "ConvertRange24Regular",
+    "name": "sub订阅转换",
+    "link": "https://sub.mychinadream.com/"
+  },
+  {
+    "icon": "OndemandVideoFilled",
+    "name": "aipan search",
+    "link": "https://aipan.mychinadream.com/"
+  },
+  {
+    "icon": "LiveTvOutlined",
+    "name": "肥羊TV订阅",
+    "link": "https://tv.mychinadream.com/"
+  },
+  {
+    "icon": "GatewayVpn",
+    "name": "nginx",
+    "link": "https://nginx.mychinadream.com/"
   }
 ]
