@@ -44,10 +44,16 @@
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import { 
-  Link, Blog, GatewayVpn, Cloud, Book, Timer, 
-  OndemandVideoFilled, Clipboard, Database, BookReader, 
-  PictureFilled, Heart, CloudMonitoring, ConvertRange24Regular, LiveTvOutlined 
-} from "@vicons/fa"; // 注意使用正确的类别
+  Blog, Cloud, Book, Robot, 
+  Clipboard, Database, BookReader, Heart 
+} from "@vicons/fa";
+import {
+  Timer, CloudMonitoring, Image, Link, ContentDeliveryNetwork, ImageSearch, GatewaySecurity
+} from "@vicons/carbon";
+
+import {
+  LiveTvOutlined
+} from "@vicons/material";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper";
@@ -69,21 +75,10 @@ const siteLinksList = computed(() => {
 
 // 网站链接图标
 const siteIcon = {
-  Link,
-  Blog,
-  Cloud,
-  Book,
-  Timer,
-  PictureFilled,
-  Heart,
-  CloudMonitoring,
-  ConvertRange24Regular,
-  LiveTvOutlined,
-  OndemandVideoFilled,
-  Clipboard,
-  Database,
-  BookReader,
-  GatewayVpn,
+  Blog, Cloud, Book, Robot, 
+  Clipboard, Database, BookReader, Heart,
+  Timer, CloudMonitoring, Image, Link, ContentDeliveryNetwork, ImageSearch, GatewaySecurity,
+  LiveTvOutlined
 };
 
 // 链接跳转

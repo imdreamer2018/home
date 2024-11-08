@@ -20,6 +20,11 @@
     "link": "https://timer.mychinadream.com/"
   },
   {
+    "icon": "Robot",
+    "name": "gpt",
+    "link": "https://gpt.mychinadream.com/"
+  },
+  {
     "icon": "CloudMonitoring",
     "name": "Monitor",
     "link": "https://monitor.mychinadream.com/"
@@ -40,7 +45,7 @@
     "link": "https://daily-reading.mychinadream.com/"
   },
   {
-    "icon": "PictureFilled",
+    "icon": "Image",
     "name": "图床",
     "link": "https://imgbed.mychinadream.com/"
   },
@@ -55,12 +60,12 @@
     "link": "https://lovehuahua.mychinadream.com/"
   },
   {
-    "icon": "ConvertRange24Regular",
+    "icon": "ContentDeliveryNetwork",
     "name": "sub订阅转换",
     "link": "https://sub.mychinadream.com/"
   },
   {
-    "icon": "OndemandVideoFilled",
+    "icon": "ImageSearch",
     "name": "aipan search",
     "link": "https://aipan.mychinadream.com/"
   },
@@ -70,7 +75,7 @@
     "link": "https://tv.mychinadream.com/"
   },
   {
-    "icon": "GatewayVpn",
+    "icon": "GatewaySecurity",
     "name": "nginx",
     "link": "https://nginx.mychinadream.com/"
   }
