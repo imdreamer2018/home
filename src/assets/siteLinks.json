@@ -30,6 +30,11 @@
     "link": "https://monitor.mychinadream.com/"
   },
   {
+    "icon": "Email",
+    "name": "Email",
+    "link": "https://email.mychinadream.com/"
+  },
+  {
     "icon": "Clipboard",
     "name": "clipboard",
     "link": "https://clip.mychinadream.com/"

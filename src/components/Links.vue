@@ -48,7 +48,7 @@ import {
   Clipboard, Database, BookReader, Heart 
 } from "@vicons/fa";
 import {
-  Timer, CloudMonitoring, Image, Link, ContentDeliveryNetwork, ImageSearch, GatewaySecurity
+  Timer, CloudMonitoring, Image, Link, ContentDeliveryNetwork, ImageSearch, GatewaySecurity, Email
 } from "@vicons/carbon";
 
 import {
@@ -78,7 +78,7 @@ const siteIcon = {
   Blog, Cloud, Book, Robot, 
   Clipboard, Database, BookReader, Heart,
   Timer, CloudMonitoring, Image, Link, ContentDeliveryNetwork, ImageSearch, GatewaySecurity,
-  LiveTvOutlined
+  LiveTvOutlined, Email
 };
 
 // 链接跳转
